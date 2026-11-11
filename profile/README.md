@@ -13,7 +13,7 @@
 
 </div>
 
-Windows overlay for Albion Online — loot filtering, PvP awareness and market clarity. Built for the full-loot sandbox where every fight and every flip matters. **Top-6 MMORPG by Steam players** in August 2026[reference:4].
+Windows overlay for Albion Online — loot filtering, PvP awareness and market clarity. Built for the full-loot sandbox where every fight and every flip matters. **Top-6 MMORPG by Steam players** in August 2026.
 
 <details><summary>📑 <b>Contents</b></summary>
 
